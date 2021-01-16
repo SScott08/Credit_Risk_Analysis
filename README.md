@@ -5,7 +5,8 @@ LendingClub is a peer-to-peer lending service company that I assessed credit ris
 
 Results
 
-https://github.com/SScott08/Credit_Risk_Analysis/issues/1
+
+![brfc](https://user-images.githubusercontent.com/68204195/104789460-efa92180-5749-11eb-96e7-7066d6423de9.png)
  
 
 
