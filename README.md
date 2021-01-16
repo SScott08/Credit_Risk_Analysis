@@ -44,6 +44,7 @@ recall: 0.70
 f1: 0.06
 
 Easy Ensemble AdaBoost Classifier
+![smote](https://user-images.githubusercontent.com/68204195/104790595-7e1ea280-574c-11eb-9859-449bfdd58025.png)
 
 
 precision: 0.09
