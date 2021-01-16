@@ -22,9 +22,33 @@ precision: 0.01
 recall: 0.63
 f1: 0.02
 
+ Undersampling
  
- 
- 
+ ![eec](https://user-images.githubusercontent.com/68204195/104790207-c12c4600-574b-11eb-82b6-27915b62e227.png)
+
+precision: 0.01
+recall: 0.67
+f1: 0.01
+
+Combination Sampling
+
+
+precision: 0.01
+recall: 0.70
+f1: 0.02
+
+Balanced Random Forest Classifier
+
+precision: 0.01
+recall: 0.70
+f1: 0.06
+
+Easy Ensemble AdaBoost Classifier
+
+
+precision: 0.09
+recall: 0.92
+f1: 0.16
 
 
 Summary
