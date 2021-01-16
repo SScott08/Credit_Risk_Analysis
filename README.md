@@ -15,7 +15,7 @@ f1: 0.02
 
 SMOTE Oversampling
 
-![cc](https://user-images.githubusercontent.com/68204195/104790026-3b0fff80-574b-11eb-8fce-1d1e8c275b78.png)
+![smote](https://user-images.githubusercontent.com/68204195/104790595-7e1ea280-574c-11eb-9859-449bfdd58025.png)
 
 
 precision: 0.01
@@ -31,6 +31,12 @@ recall: 0.67
 f1: 0.01
 
 Combination Sampling
+
+
+![cc](https://user-images.githubusercontent.com/68204195/104790026-3b0fff80-574b-11eb-8fce-1d1e8c275b78.png)
+
+
+
 ![ros](https://user-images.githubusercontent.com/68204195/104790553-5cbdb680-574c-11eb-8258-5c7bf38c5556.png)
 
 precision: 0.01
@@ -39,12 +45,13 @@ f1: 0.02
 
 Balanced Random Forest Classifier
 
+![brfc](https://user-images.githubusercontent.com/68204195/104790162-a0fc8700-574b-11eb-8a83-a34467bf9c24.png)
+
 precision: 0.01
 recall: 0.70
 f1: 0.06
 
 Easy Ensemble AdaBoost Classifier
-![smote](https://user-images.githubusercontent.com/68204195/104790595-7e1ea280-574c-11eb-9859-449bfdd58025.png)
 
 
 precision: 0.09
