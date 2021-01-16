@@ -7,7 +7,7 @@ Results
 
 Native Oversampling
 
-![brfc](https://user-images.githubusercontent.com/68204195/104789460-efa92180-5749-11eb-96e7-7066d6423de9.png)
+![brfc](https://user-images.githubusercontent.com/68204195/104790162-a0fc8700-574b-11eb-8a83-a34467bf9c24.png)
  
 precision: 0.01
 recall: 0.74
