@@ -36,10 +36,7 @@ f1: 0.01
 Combination Sampling
 
 
-
-
-
-
+![smoteenn](https://user-images.githubusercontent.com/68204195/104791308-33eaf080-574f-11eb-845d-0d0d29a44db3.png)
 
 
 precision: 0.01
