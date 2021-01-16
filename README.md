@@ -31,7 +31,7 @@ recall: 0.67
 f1: 0.01
 
 Combination Sampling
-
+![ros](https://user-images.githubusercontent.com/68204195/104790553-5cbdb680-574c-11eb-8258-5c7bf38c5556.png)
 
 precision: 0.01
 recall: 0.70
