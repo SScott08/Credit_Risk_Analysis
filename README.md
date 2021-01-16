@@ -5,10 +5,22 @@ LendingClub is a peer-to-peer lending service company that I assessed credit ris
 
 Results
 
+Native Oversampling
 
 ![brfc](https://user-images.githubusercontent.com/68204195/104789460-efa92180-5749-11eb-96e7-7066d6423de9.png)
  
+precision: 0.01
+recall: 0.74
+f1: 0.02
 
+SMOTE Oversampling
+
+![cc](https://user-images.githubusercontent.com/68204195/104790026-3b0fff80-574b-11eb-8fce-1d1e8c275b78.png)
+
+
+precision: 0.01
+recall: 0.63
+f1: 0.02
 
  
  
